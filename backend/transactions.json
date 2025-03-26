@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1742750981603,
+    "description": "income ",
+    "amount": 500,
+    "category": "Salary"
+  },
+  {
+    "id": 1742751019941,
+    "description": "clothes",
+    "amount": -200,
+    "category": "Shopping"
+  },
+  {
+    "id": 1742751413475,
+    "description": "Coffee",
+    "amount": 60,
+    "category": "Food"
+  },
+  {
+    "id": 1742754147774,
+    "description": "Car",
+    "amount": -60,
+    "category": "Transport"
+  },
+  {
+    "id": 1742754607834,
+    "description": "Bill",
+    "amount": -90,
+    "category": "Bills"
+  },
+  {
+    "id": 1742789770303,
+    "description": "Bus",
+    "amount": -120,
+    "category": "Transport"
+  }
+]
