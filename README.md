@@ -29,7 +29,7 @@ A simple and visually appealing **Finance Tracker** built with the **MERN stack 
 
 ## 🚀 Live Demo
 
-🔗 [Frontend URL]([https://your-app.netlify.app](https://lakshyafinance.netlify.app/))  
+🔗 https://lakshyafinance.netlify.app/
 
 ---
 
