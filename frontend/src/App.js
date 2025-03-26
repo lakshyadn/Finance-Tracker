@@ -5,7 +5,7 @@ import Particles from "react-tsparticles";
 import { loadSlim } from "tsparticles-slim";
 import "./styles.css";
 
-const API_URL = "http://localhost:5000/transactions"; // Backend URL
+const API_URL = "https://finance-tracker-backend-production-79fa.up.railway.app/transactions"; // Backend URL
 
 function App() {
   const [description, setDescription] = useState("");
