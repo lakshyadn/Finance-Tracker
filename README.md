@@ -1,6 +1,6 @@
 # 💰 Finance Tracker
 
-A simple and visually appealing **Finance Tracker** built with the **MERN stack (without MongoDB)**. This application allows users to manage their transactions, view income and expenses, and visualize financial data using a pie chart. The backend is deployed on **Railway**, and the frontend is hosted on **Netlify**.
+A simple and visually appealing **Finance Tracker** built with the **MERN stack**. This application allows users to manage their transactions, view income and expenses, and visualize financial data using a pie chart. The backend is deployed on **Railway**, and the frontend is hosted on **Netlify**.
 
 ---
 
