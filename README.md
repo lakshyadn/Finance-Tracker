@@ -21,18 +21,18 @@ A simple and visually appealing **Finance Tracker** built with the **MERN stack 
 | ------------------------ | ------------------------------------- |
 | **Frontend**             | React, CSS/Bootstrap                  |
 | **Backend**              | Node.js, Express.js                   |
-| **Database Alternative** | JSON file/SQLite (instead of MongoDB) |
+| **Database Alternative** | MongoDB
 | **Deployment**           | Netlify (Frontend), Railway (Backend) |
 | **Version Control**      | Git & GitHub                          |
 
 ---
 
-## 🚀 Live Demo
+<!---## 🚀 Live Demo
 
 🔗 [Launch](https://lakshyafinance.netlify.app/)
 
 ---
-
+---->
 ## Feature
 🚀 Dashboard: Shows transactions, total balance, and a pie chart
 📈 Pie Chart: Visual breakdown of categories (Income vs Expenses)
